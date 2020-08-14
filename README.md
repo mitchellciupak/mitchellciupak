@@ -1,8 +1,5 @@
 ### Hi there, I'm Mitchell 👋
 
-<!--
-**mitchellciupak/mitchellciupak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Mix](github.com/mitchellciupak/mix)
@@ -10,7 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open Source projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love music theory and trying to break my piano.
--->
 
 <br />
 
