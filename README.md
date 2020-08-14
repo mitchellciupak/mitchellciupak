@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything all at once 🤣
 - 👯 I’m looking to collaborate on Open Source projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love music theory and trying to break my piano.
+- ⚡ Fun fact: I love trying to break my piano and the music theory behind that
 <br />
 
 ### Connect with me:
