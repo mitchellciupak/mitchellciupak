@@ -1,6 +1,5 @@
 ### Hi there, I'm Mitchell 👋
-
-
+## Computer Engineering student at Purdue University and avid programmer 
 - 🔭 I’m currently working on [Mix](github.com/mitchellciupak/mix)
 - 🌱 I’m currently learning everything all at once 🤣
 - 👯 I’m looking to collaborate on Open Source projects
