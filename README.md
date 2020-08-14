@@ -37,21 +37,6 @@ Here are some ideas to get you started:
 <br />
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-  <!--START_SECTION:activity-->
-
-  1. ❗️ Opened issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-  2. 🎉 Merged PR [#3](https://github.com//mitchellciupak/codeSTACKr/pull/3) in [mitchellciupak/mitchellciupak](https://github.com//codeSTACKr/codeSTACKr)
-  3. 🎉 Merged PR [#1](https://github.com//mitchellciupak/battleships/pull/1) in [mitchellciupak/battleships](https://github.com//codeSTACKr/battleships)
-  4. 💪 Opened PR [#1](https://github.com//mitchellciupak/battleships/pull/1) in [mitchellciupak/battleships](https://github.com//codeSTACKr/battleships)
-  5. 🎉 Merged PR [#2](https://github.com//kubowania/battleships/pull/2) in [kubowania/battleships](https://github.com//kubowania/battleships)
-  
-  <!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
