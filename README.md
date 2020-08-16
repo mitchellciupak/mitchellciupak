@@ -3,7 +3,7 @@
 ## I'm a Computer Engineering student at Purdue University and an avid programmer!
 
 - 🔭 I’m currently working on [Mix](https://github.com/mitchellciupak/Mix)
-- 🌱 I’m currently learning everything all at once 🤣
+- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on Open Source projects
 - 🥅 2020 Goals: Experiment with APIs
 - ⚡ Fun fact: I love trying to break my piano and the music theory behind that
