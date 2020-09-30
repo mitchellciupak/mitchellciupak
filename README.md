@@ -1,12 +1,12 @@
 ### Hi there, I'm Mitchell 👋
 
-## I'm a Computer Engineering student at Purdue University and an avid programmer!
+## I'm a Computer Engineering student at Purdue, check out some of my code!
 
 - 🔭 I’m currently working on [Snow-WeAR Goggles](https://github.com/mitchellciupak/ECE_477)
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on Open Source projects
+- 👯 I’m looking to collaborate on Open Source projects (Happy Hacktoberfest!!)
 - 🥅 2020 Goals: Experiment with APIs
-- ⚡ Fun fact: I love playing my piano and the music theory behind it
+- ⚡ Fun fact: I play the piano and spend too much time on YouTube tutorials
 <br />
 
 ### Connect with me:
