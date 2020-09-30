@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Snow-WeAR Goggles](https://github.com/mitchellciupak/ECE_477)
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on Open Source projects (Happy Hacktoberfest!!)
+- 👯 I’m looking to collaborate on Open Source projects (Join me at [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!!!)
 - 🥅 2020 Goals: Experiment with APIs
 - ⚡ Fun fact: I play the piano and spend too much time on YouTube tutorials
 <br />
