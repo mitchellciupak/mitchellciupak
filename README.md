@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [Snow-WeAR Goggles](https://github.com/ECE477/Course-Website)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on Open Source projects (Join me at [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!!!)
-- 🥅 2020 Goals: Experiment with APIs
+- 🥅 2020 Goals: Experiment with [APIs](https://github.com/public-apis/public-apis)
 - ⚡ Fun fact: I play the piano and spend too much time on YouTube tutorials
 <br />
 
