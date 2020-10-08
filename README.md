@@ -10,10 +10,16 @@
 <br />
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="github.com/mitchellciupak" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mitchellciupak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mitchellciupak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mitchellciupak | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="mitchellciupak | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackOverflow]
+[<img align="left" alt="mitchellciupak | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="mitchellciupak | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
+[<img align="left" alt="mitchellciupak | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerRank]
+[<img align="left" alt="mitchellciupak | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/topcoder.svg" />][topCoder]
+
 <br />
 
 ### Languages and Tools:
@@ -43,4 +49,9 @@
 [website]: https://mitchellciupak.github.io
 [twitter]: https://twitter.com/mitchellciupak
 [linkedin]: https://linkedin.com/in/mitchellciupak
-[discord]: mjc#2563
+[discord]: https://discord.com/channels/@mjc#2563
+[stackOverflow]:https://stackoverflow.com/users/11755550/mitchell-ciupak
+[medium]: https://medium.com/@laggant
+[leetcode]: https://leetcode.com/bigojellyfish33/
+[hackerRank]: https://www.hackerrank.com/mjcre23
+[topCoder]: https://www.topcoder.com/members/mjc23
