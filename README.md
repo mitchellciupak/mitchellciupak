@@ -51,7 +51,7 @@
 [linkedin]: https://linkedin.com/in/mitchellciupak
 [discord]: https://discord.com/channels/@mjc#2563
 [stackOverflow]:https://stackoverflow.com/users/11755550/mitchell-ciupak
-[medium]: https://medium.com/@laggant
+[medium]: https://laggant.medium.com/
 [leetcode]: https://leetcode.com/bigojellyfish33/
 [hackerRank]: https://www.hackerrank.com/mjcre23
 [topCoder]: https://www.topcoder.com/members/mjc23
