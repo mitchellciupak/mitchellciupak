@@ -1,11 +1,11 @@
-### Hi there, I'm Mitchell 👋
+### Hi, I'm Mitchell 👋
 
-## I'm a Computer Engineering student at Purdue, check out some of my code!
+## I'm a computer engineering student at Purdue, check out some of my code!
 
 - 🔭 I’m currently working on [Snow-WeAR Goggles](https://github.com/ECE477/Course-Website)
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning React-Native
 - 👯 I’m always looking to give back to Open Source projects (I had a great introduction thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!)
-- 🥅 2020 Goals: Experiment with some of these [APIs](https://github.com/public-apis/public-apis)
+- 🥅 2021 Goals: Build a large scale application on multiple platforms
 - ⚡ Fun fact: I play the piano and spend too much time on YouTube tutorials
 <br />
 
