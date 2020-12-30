@@ -2,10 +2,10 @@
 
 ## I'm a computer engineering student at Purdue, check out some of my code!
 
-- 🔭 I’m currently working on [Snow-WeAR Goggles](https://github.com/ECE477/Course-Website)
+- 🔭 I’m currently working on ofTheDay
 - 🌱 I’m currently learning React-Native
-- 👯 I’m always looking to give back to Open Source projects (I had a great introduction thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!)
-- 🥅 2021 Goals: Build a large scale application on multiple platforms
+- 👐 I’m always looking to give back to Open Source projects (I had a great introduction thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!)
+- 🥅 2021 Goals: Build a large scale PWA
 - ⚡ Fun fact: I play the piano and spend too much time on YouTube tutorials
 <br />
 
