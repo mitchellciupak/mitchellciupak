@@ -45,11 +45,8 @@
 
 </details>
 
-
-[![Linkedin: mitchellciupak](https://img.shields.io/badge/-mitchllciupak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mitchellciupak/)](https://www.linkedin.com/in/mianjawadahmad/)
-[![Twitter: mitchellciupak](https://img.shields.io/twitter/follow/mitchellciupak?style=social)](https://twitter.com/mitchellciupak)
-<p align="right"> <img src=https://img.shields.io/github/followers/mitchellciupak?label=follow&style=social alt=https://github.com/mitchellciupak/> </p>
 <p align="right"> <img src=https://komarev.com/ghpvc/?username=mitchellciupak alt=mitchellciupak/> </p>
+[![Linkedin: mitchellciupak](https://img.shields.io/badge/-mitchllciupak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mitchellciupak/)](https://www.linkedin.com/in/mianjawadahmad/)
 
 [website]: https://mitchellciupak.github.io
 [twitter]: https://twitter.com/mitchellciupak
