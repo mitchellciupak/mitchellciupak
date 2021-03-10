@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React-Native
 - 👐 I’m always looking to give back to Open Source projects (I had a great introduction thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!)
 - 🥅 2021 Goals: Build a large scale PWA
-- ⚡ Fun fact: I play the piano and spend too much time on YouTube tutorials
+- ⚡ Fun fact: I play the piano and I love to spend too much time on YouTube tutorials
 <br />
 
 ### Connect with me:
