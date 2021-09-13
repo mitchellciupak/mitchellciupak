@@ -1,6 +1,6 @@
 ### Hi, I'm Mitchell 👋
 
-## I'm a computer engineering student at Purdue, check out some of my code!
+## I'm an Incoming Cloud Engineer at NTT DATA, check out some of my code!
 
 - 🔭 I’m currently working on ofTheDay
 - 🌱 I’m currently learning React-Native
