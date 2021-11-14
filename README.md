@@ -56,6 +56,3 @@
 [leetcode]: https://leetcode.com/bigojellyfish33/
 [hackerRank]: https://www.hackerrank.com/mjcre23
 [topCoder]: https://www.topcoder.com/members/mjc23
-
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="14397f38-bec4-4ebb-b186-8a644690e18e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
