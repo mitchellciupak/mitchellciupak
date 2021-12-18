@@ -38,13 +38,6 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="mitchellciupak's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mitchellciupak&show_icons=true&hide_border=true" />
-
-</details>
-
 <p align="right"> <img src=https://komarev.com/ghpvc/?username=mitchellciupak alt=mitchellciupak/> </p>
 
 [website]: https://mitchellciupak.github.io
