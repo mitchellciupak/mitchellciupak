@@ -1,12 +1,12 @@
-### Hi, I'm Mitchell 👋
+### 
 
-## I'm an Incoming Cloud Engineer at NTT DATA, check out some of my code!
+## Hi, I'm Mitchell 👋. I'm a DevOps/Cloud Engineer at NTT DATA.
 
-- 🔭 I’m currently working on ofTheDay
-- 🌱 I’m currently learning React-Native
+- 🔭 I’m currently working on: a lot of projects at once, but oftheday is one I am very proud of. 
+- 🌱 I’m currently learning:  AWS
 - 👐 I’m always looking to give back to Open Source projects (I had a great introduction thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!)
-- 🥅 2021 Goals: Build a large scale PWA
-- ⚡ Fun fact: I play the piano and I love to spend too much time on YouTube tutorials
+- 🥅 2022 Goals: Master AWS
+- ⚡ Fun fact: I play the piano and I love to play basketball.
 <br />
 
 ### Connect with me:
@@ -33,7 +33,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <br />
 <br />
 <br />
