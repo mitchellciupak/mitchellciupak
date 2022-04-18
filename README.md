@@ -1,14 +1,6 @@
 ### 
 
 ## Hi, I'm Mitchell 👋. I'm a DevOps/Cloud Engineer at NTT DATA.
-
-- 🔭 I’m currently working on: a lot of projects at once, but oftheday is one I am very proud of. 
-- 🌱 I’m currently learning:  AWS, GCP, Azure, and Terraform
-- 👐 I’m always looking to give back to Open Source projects (I had a great introduction thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!)
-- 🥅 2022 Goals: Master the Cloud
-- ⚡ Fun fact: I play the piano and I love to play basketball.
-<br />
-
 ### Connect with me:
 [<img align="left" alt="github.com/mitchellciupak" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mitchellciupak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
