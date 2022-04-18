@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on: a lot of projects at once, but oftheday is one I am very proud of. 
 - 🌱 I’m currently learning:  AWS
 - 👐 I’m always looking to give back to Open Source projects (I had a great introduction thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!)
-- 🥅 2022 Goals: Master AWS
+- 🥅 2022 Goals: Master the Cloud
 - ⚡ Fun fact: I play the piano and I love to play basketball.
 <br />
 
