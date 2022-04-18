@@ -3,7 +3,7 @@
 ## Hi, I'm Mitchell 👋. I'm a DevOps/Cloud Engineer at NTT DATA.
 
 - 🔭 I’m currently working on: a lot of projects at once, but oftheday is one I am very proud of. 
-- 🌱 I’m currently learning:  AWS
+- 🌱 I’m currently learning:  AWS, GCP, Azure, and Terraform
 - 👐 I’m always looking to give back to Open Source projects (I had a great introduction thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!)
 - 🥅 2022 Goals: Master the Cloud
 - ⚡ Fun fact: I play the piano and I love to play basketball.
