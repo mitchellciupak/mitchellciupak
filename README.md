@@ -1,6 +1,6 @@
 
 # Hi, I'm Mitchell 👋. I'm a DevOps/Cloud Engineer at NTT DATA.
-Here you can check out some of my projects. Take a look at the other organizations that I manage or am apart of to see my open source contributions, mjc-s specific projects, or my archived repos. I also write articles and blog on Medium, so check me out there at https://mciupak.medium.com/ if you're interested!
+Here you can check out some of my projects. Take a look at the other organizations that I manage or am apart of to see my open source contributions, mjc-s specific projects, or my archived repos.
 
 ## Certifications:
 <img align="left" alt="AWS Certified SysOps Admin Associate" width="65px" src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" />
