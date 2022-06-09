@@ -3,6 +3,7 @@
 Here you can check out some of my projects. Take a look at the other organizations that I manage or am apart of to see my open source contributions, mjc-s specific projects, or my archived repos.
 
 ## Certifications:
+<img align="left" alt="Hashicorp Terraform Associate" width="65px" src="https://images.credly.com/size/220x220/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" />
 <img align="left" alt="AWS Certified SysOps Admin Associate" width="65px" src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" />
 <img align="left" alt="AWS Certified Developer Associate" width="65px" src="https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />
 <img align="left" alt="AWS Certified Solutions Architect Associate" width="65px" src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
@@ -10,6 +11,7 @@ Here you can check out some of my projects. Take a look at the other organizatio
 <br />
 <br />
 <br />
+<div>
 
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -34,6 +36,7 @@ Here you can check out some of my projects. Take a look at the other organizatio
 [<img align="left" alt="mitchellciupak | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="mitchellciupak | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackOverflow]
 [<img align="left" alt="mitchellciupak | LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
+<div>
 <p align="right"> <img src=https://komarev.com/ghpvc/?username=mitchellciupak alt=mitchellciupak/> </p>
 <br />
 
