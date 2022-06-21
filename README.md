@@ -11,7 +11,7 @@ Here you can check out some of my projects. Take a look at the other organizatio
 <br />
 <br />
 <br />
-<div>
+<div></div>
 
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -28,6 +28,7 @@ Here you can check out some of my projects. Take a look at the other organizatio
 <br />
 <br />
 <br />
+<div></div>
 
 ## Connect with me:
 [<img align="left" alt="mitchellciupak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -36,7 +37,7 @@ Here you can check out some of my projects. Take a look at the other organizatio
 [<img align="left" alt="mitchellciupak | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="mitchellciupak | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackOverflow]
 [<img align="left" alt="mitchellciupak | LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
-<div>
+<div></div>
 <p align="right"> <img src=https://komarev.com/ghpvc/?username=mitchellciupak alt=mitchellciupak/> </p>
 <br />
 
