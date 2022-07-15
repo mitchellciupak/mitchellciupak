@@ -7,7 +7,9 @@ Here you can check out some of my projects. Take a look at the other organizatio
 <img align="left" alt="AWS Certified SysOps Admin Associate" width="65px" src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" />
 <img align="left" alt="AWS Certified Developer Associate" width="65px" src="https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />
 <img align="left" alt="AWS Certified Solutions Architect Associate" width="65px" src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
+<img align="left" alt="Google Cloud Engineer" width="65px" src="https://miro.medium.com/max/324/1*T59fnCvp71WqNeuytWGorA.png" />
 <img align="left" alt="AWS Cloud Practitioner" width="65px" src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
+
 <br />
 <br />
 <br />
