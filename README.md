@@ -29,7 +29,6 @@ Here you can check out some of my projects. Take a look at the other organizatio
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <br />
 <br />
-<br />
 <div></div>
 
 ## Connect with me:
