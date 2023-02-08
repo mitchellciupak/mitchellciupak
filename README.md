@@ -1,5 +1,5 @@
 
-# Hi, I'm Mitchell 👋. I'm a DevOps/Cloud Engineer at NTT DATA.
+# Hi, I'm Mitchell 👋. I'm a SDE at Comcast.
 Here you can check out some of my projects. Take a look at the other organizations that I manage or am apart of to see my open source contributions, mjc-s specific projects, or my archived repos.
 
 ## Certifications:
